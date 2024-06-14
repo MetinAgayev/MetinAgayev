@@ -1,14 +1,6 @@
-![MasterHead]([https://link-to-your-image.com](https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg))
-<h1 align="center">Hi 👋, I'm Metin</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metinagayev&label=Profile%20views&color=0e75b6&style=flat" alt="metinagayev" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN2b2c2eGR4bWxscGZ2eWZnbnBpanp1NTk2aGZ4cWNkMnBrcWk2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **metinagayev04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
