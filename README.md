@@ -1,30 +1,11 @@
-<div align="center">
+### Hi there 👋
 
-# Metin Agayev
-
-`Backend Software Engineer · Baku, Azerbaijan`
-
-</div>
+Backend engineer who enjoys building systems that are boring in the best way —
+reliable, observable, and easy to reason about.
+Working with Java, Spring Boot, and distributed systems at **Cybernet**, Baku.
 
 ---
 
-I build **distributed backend systems** — microservices, event-driven pipelines, BPMN workflow orchestration. Comfortable deep in the JVM, designing clean architecture, and debugging things that are supposed to be invisible. Currently shipping production Java at **Cybernet**.
+**Connect with me**
 
----
-
-**Core Stack**
-
-| Primary | Infrastructure | Data |
-|---|---|---|
-| Java 17 · Spring Boot · WebFlux | Apache Kafka · Redis | PostgreSQL · Oracle · Elasticsearch |
-| Zeebe · Camunda BPMN | Docker · Maven | — |
-
----
-
-**Interests**
-
-`Distributed systems` · `JVM internals & concurrency` · `Philosophy` · `Personal finance` · `Linguistics`
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MetinAgayev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Metin_Agayev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
